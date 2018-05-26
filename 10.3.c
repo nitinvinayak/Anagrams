@@ -79,6 +79,4 @@ int main()
   else
     printf("Not Anagrams\n");
   return 0;
-
-
 } 
